@@ -20,7 +20,7 @@ def game_score_best(number, min_number, max_number):
     return count                                          # выход из цикла
 
 
-def score_game(game_score, min_number=1, max_number=100):  #
+def score_game(game_score, min_number=1, max_number=100):  
     """Запускаем игру 1000 раз, чтобы узнать, как быстро игра угадывает число.
     Аргументы min_number и max_number задают диапазон поиска"""
     count_ls = []
