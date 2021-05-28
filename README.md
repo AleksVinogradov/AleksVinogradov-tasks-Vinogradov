@@ -1,4 +1,4 @@
-# Репозиторий для учебных проектов на SkillFactory. 
+# Репозиторий для учебных проектов на SkillFactory
 
 ## Курс Data Scientist 2020-2022 (https://skillfactory.ru/dstpro)
 
